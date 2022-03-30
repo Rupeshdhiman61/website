@@ -1,6 +1,6 @@
 ---
 title: Facebook
-category: Contact Syncing
+category: Getting Started
 order: 1
 ---
 

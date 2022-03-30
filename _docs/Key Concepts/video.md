@@ -1,6 +1,6 @@
 ---
 title: Video
-category: Media
+category: Key Concepts
 order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Images
-category: Media
+category: Key Concepts
 order: 1
 ---
 

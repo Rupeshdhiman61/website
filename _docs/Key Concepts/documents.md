@@ -1,6 +1,6 @@
 ---
 title: Documents
-category: Media
+category: Key Concepts
 order: 3
 ---
 
