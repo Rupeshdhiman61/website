@@ -3,7 +3,7 @@
 
 title: The API Doc Writer
 url: "https://long-pig.cloudvent.net"
-baseurl:
+baseurl: "/website"
 google_analytics_key:
 show_full_navigation: true
 
