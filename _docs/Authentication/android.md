@@ -2,6 +2,7 @@
 title: Android2
 category: Android
 permalink: /android/android1
+order: 1
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.
