@@ -1,6 +1,7 @@
 ---
-title: Android
+title: Android2
 category: Authentication
+permalink: /android/android1
 order: 2
 ---
 
