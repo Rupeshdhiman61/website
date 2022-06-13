@@ -1,8 +1,7 @@
 ---
 title: Android2
-category: Authentication
+category: Android
 permalink: /android/android1
-order: 3
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.
