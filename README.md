@@ -29,7 +29,8 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
 > Make sure you have completed this setup.
-> > Make sure you have completed this setup.
+
+>> Make sure you have completed this setup.
 
 ## Develop
 
