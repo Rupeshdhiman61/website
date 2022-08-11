@@ -48,8 +48,6 @@ $ bundle exec jekyll serve
 ## Editing
 ### Below are some instructions for editing.
 
-Follow these instructions to edit this wiki.
-
 Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
 
 ### Documentation pages
