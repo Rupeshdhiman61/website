@@ -32,6 +32,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
+
 Install the dependencies with [Bundler](http://bundler.io/):
 
 ~~~bash
@@ -45,6 +46,9 @@ $ bundle exec jekyll serve
 ~~~
 
 ## Editing
+### Below are some instructions for editing.
+
+Follow these instructions to edit this wiki.
 
 Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
 
