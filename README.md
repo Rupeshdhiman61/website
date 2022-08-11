@@ -28,6 +28,9 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 1. Add your site and author details in `_config.yml`.
 2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
+> Make sure you have completed this setup.
+> > Make sure you have completed this setup.
+
 ## Develop
 
 Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
